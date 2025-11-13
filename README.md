@@ -1,0 +1,1 @@
+# Lista02deExerc-ciosEstruturadeDecis-oSimples-Composta-e-Encadeada
