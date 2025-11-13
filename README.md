@@ -1,1 +1,1 @@
-# Lista02deExerc-ciosEstruturadeDecis-oSimples-Composta-e-Encadeada
+# Exercicios-JS-By-Eder-Lista02
